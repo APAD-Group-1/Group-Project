@@ -1,0 +1,11 @@
+# COMMAND LINE FOR RUNNING PROJECT
+cd frontend
+npm install
+npm start
+
+# open another terminal
+python server.py
+
+# COMMAND LINE FOR TESTS
+python -m pytest
+
